@@ -1,5 +1,8 @@
 # Water Quality Monitoring using IoT
 
+![imageedit_1_2566578008](https://user-images.githubusercontent.com/17771352/36631584-d478b658-19a0-11e8-864c-1b7552e7339f.png)
+
+![image](https://user-images.githubusercontent.com/17771352/36631546-1734d70c-19a0-11e8-90fb-7cdec3a7930a.png)
 #### Tools and Frameworks Used
 1. Arduino uno 
 2. GSM Module SIM900A 
