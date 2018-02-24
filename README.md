@@ -13,9 +13,12 @@
 [Onewire Library](https://github.com/PaulStoffregen/OneWire)  
 
 #### Connections
-⇨Interfacing Arduino Uno and 16X2 LCD for displaying the data collected by temperature and turbidity sensors.
-⇨Connecting Tx and Rx of  GSM SIM900A to digital pin 9,10 respectively.
-⇨Output of temperature to digital pin 12 
+⇨Interfacing Arduino Uno and 16X2 LCD for displaying the data collected by temperature and turbidity sensors.  
+
+⇨Connecting Tx and Rx of  GSM SIM900A to digital pin 9,10 respectively.  
+
+⇨Output of temperature to digital pin 12  
+
 ⇨Output of turbidity sensor  to analog pin A1
 
 ![imageedit_1_2566578008](https://user-images.githubusercontent.com/17771352/36631584-d478b658-19a0-11e8-864c-1b7552e7339f.png)
