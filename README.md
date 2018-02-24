@@ -9,6 +9,9 @@
 6. Arduino IDE for coding  
 7. Thingspeak for uploading data to internet
 
+[Temperature Library](https://github.com/milesburton/Arduino-Temperature-Control-Library)
+[Onewire Library](https://github.com/PaulStoffregen/OneWire)
+
 ![imageedit_1_2566578008](https://user-images.githubusercontent.com/17771352/36631584-d478b658-19a0-11e8-864c-1b7552e7339f.png)
 
 ![image](https://user-images.githubusercontent.com/17771352/36631546-1734d70c-19a0-11e8-90fb-7cdec3a7930a.png)
